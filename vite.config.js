@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: './',
+  base: '/promptflow-website/',
   root: '.',
   publicDir: 'public',
   build: {
