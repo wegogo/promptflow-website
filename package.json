@@ -1,0 +1,25 @@
+{
+  "name": "promptflow-website",
+  "version": "1.0.0",
+  "description": "PromptFlow official website for Stripe review",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "promptflow",
+    "ai",
+    "prompt-management",
+    "landing-page"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.27",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^3.4.19",
+    "vite": "^7.3.1"
+  }
+}
